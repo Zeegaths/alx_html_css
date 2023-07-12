@@ -11,14 +11,14 @@ main{
     flex: auto;
  }
 
- article {
+article {
     flex: 2;
     color: aquamarine;
     overflow-y: auto
 
  }
 
- aside {
+aside {
     flex: 1;
     overflow-y: auto
  }
