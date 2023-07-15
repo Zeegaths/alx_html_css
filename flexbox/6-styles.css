@@ -211,6 +211,7 @@
       ============================= */
   
   .nav {
+    display: flex;
     margin: 0;
     padding: 0;
     list-style: none;
@@ -252,8 +253,8 @@
   }
 
   .nav .nav-item + .nav-item {
-    margin: 0 0 0 2rem;
-    /* Styles go here */
+    --nav-item-margin: 0 0 0 2rem;
+   
   }
   
   /* Header
