@@ -72,7 +72,7 @@
     --nav-item-font-size: var(--font-size-medium);
     --nav-item-letter-spacing: .04rem;
     --nav-item-display: inline-block;
-    --nav-item-margin: nav-item-margin;
+    --nav-item-margin: 0 0 0 2rem;
     --nav-item-link-hover: var(--color-white);
   
     /** BUTTON **/
@@ -220,8 +220,10 @@
     
   }
 
-  nav .nav-item + .nav-item {
+  .nav .nav-item + .nav-item {
     margin: var(--nav-item-margin);
+
+    
   }
   
   .nav .nav-link {
