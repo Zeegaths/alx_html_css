@@ -1,3 +1,4 @@
+
 .header-section {
     background-image: url(images/Object.png);
     object-fit: cover;
@@ -69,4 +70,20 @@
 
  .images {
     padding-top: 50px;
+ }
+
+ .pros h2 span {
+    color: #C271FF;
+ }
+
+ .quote-section {
+    background-color: #C271FF;
+ }
+ .quote-section img {
+    display: flex;    
+    margin-left: 200px;
+    margin-right: 200px;
+    align-items: center;
+    padding-top: 120px; 
+    padding-bottom: 120px;  
  }
