@@ -87,3 +87,23 @@
     padding-top: 120px; 
     padding-bottom: 120px;  
  }
+
+ .video-list {
+    display: flex;  
+    flex-direction: column;  
+    margin-left: 200px;
+    margin-right: 200px;
+    align-items: center;
+    padding-top: 50px; 
+    padding-bottom: 120px;  
+    background-color: white;
+ }
+
+ .video-list div {
+    display: flex;
+    padding-top: 50px;
+ }
+
+ .popular {
+    color: #C271FF;
+ }
