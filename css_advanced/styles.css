@@ -137,5 +137,21 @@
     width: 150px;
     margin-top: 80px;
     margin-bottom: 5px;
- }
+ } 
+
+
+.faq-section {
+background-color: white;
+}
+
+.faq {
+    display: flex;  
+    flex-direction: column;  
+    margin-left: 300px;
+    margin-right: 200px;
+    align-items: center;
+    padding-top: 50px; 
+    padding-bottom: 120px;  
+    background-color: white;
+}
 
