@@ -1,0 +1,72 @@
+.header-section {
+    background-image: url(images/Object.png);
+    object-fit: cover;
+    margin: 0%;
+    height: 100vh;
+    color: white;
+    font-family: "https://www.fontsquirrel.com/fonts/source-sans-pro";
+    padding-bottom: 400px;
+    padding-top: 15px;
+   
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.nav {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.get-schooled {
+    display: flex;
+    flex-direction: column;    
+    margin-left: 200px;
+    margin-right: 200px;
+    align-items: center;
+    padding-top: 120px; 
+    
+}
+ .get-schooled h1 {
+    font-size: 80px;
+    margin-bottom: 0px;
+   
+ }
+.get-schooled .text1
+  {
+   display: flex;
+   gap: 60px;
+ }
+
+ button {
+    background-color: #C271FF;
+    margin-top: 40px;
+    color: white;
+    border-radius: 20px;
+    height: 40px;
+ }
+
+ .pros {
+    display: flex;
+    flex-direction: column;    
+    margin-left: 200px;
+    margin-right: 200px;
+    align-items: center;
+    padding-top: 10px; 
+    margin-bottom: 150px;
+ }
+
+ .pros h2 {
+    padding-top: 60px;
+ }
+
+ .images {
+    padding-top: 50px;
+ }
