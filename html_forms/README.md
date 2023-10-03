@@ -1,0 +1,1 @@
+Simple contact form, subscription form with radio buttons, feedback form with checkboxes and file upload, select form with select dropdown, time and date selection.
